@@ -32,7 +32,7 @@
   "clockRate": 8000,
   "enableNoiseCancel": false,
   "ecTailLen": 200,
-  "enableWSEvents": false,
+  "enableWSEvents": true,
   "enableMetrics": false,
   "metricsProto": "UDP",
   "metricsServerHosts": ["10.47.192.13"],
