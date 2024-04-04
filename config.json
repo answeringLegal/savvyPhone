@@ -21,8 +21,8 @@
     "speakers"
   ],
   "useDefaultAudioDevice": true,
-  "defaultInputAudioDevice": "Plantronics Blackwire 3220 Series, Logi USB Headset",
-  "defaultOutputAudioDevice": "Plantronics Blackwire 3220 Series, Logi USB Headset",
+  "defaultInputAudioDevice": "Plantronics Logi USB",
+  "defaultOutputAudioDevice": "Plantronics Logi USB",
   "securityCode": "D9C853F4897CF64307DB652246827FAC83111303F3E207F8FD9F5E5DC89A9EF9",
   "autoUnHold": true,
   "testAudioDevice": false,
