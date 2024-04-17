@@ -47,11 +47,11 @@
   "autoAnswerDelay": 100000,
   "currentPackageVersion": {
     "windows": {
-      "version": 3.0.1,
+      "version": "3.0.1",
       "releaseNotes": "This release has blah blah"
     },
     "mac": {
-      "version": 1.0.0,
+      "version": "1.0.0",
       "releaseNotes": "This release has blah blah"
     }
   }
