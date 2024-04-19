@@ -51,7 +51,7 @@
       "releaseNotes": "Fix UI/UX issue with updater: faster downloads, remove message box. Savvy App v1.0.1"
     },
     "mac": {
-      "version": "1.0.0",
+      "version": "1.0.1",
       "releaseNotes": "This release has blah blah"
     }
   }
