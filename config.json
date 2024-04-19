@@ -47,8 +47,8 @@
   "autoAnswerDelay": 100000,
   "currentPackageVersion": {
     "windows": {
-      "version": "3.0.0",
-      "releaseNotes": "Savvy App desktop icon, fix: multiple instance issue Savvy Phone"
+      "version": "3.0.1",
+      "releaseNotes": "Fix UI/UX issue with updater: faster downloads, remove message box. Savvy App v1.0.1"
     },
     "mac": {
       "version": "1.0.0",
