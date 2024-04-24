@@ -47,8 +47,8 @@
   "autoAnswerDelay": 100000,
   "currentPackageVersion": {
     "windows": {
-      "version": "3.0.1",
-      "releaseNotes": "Fix UI/UX issue with updater: faster downloads, remove message box. Savvy App v1.0.1"
+      "version": "3.0.2",
+      "releaseNotes": "Signed version of Savvy App and Savvy Phone; Savvy App 1.0.2"
     },
     "mac": {
       "version": "1.0.1",
