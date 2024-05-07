@@ -1,0 +1,13 @@
+;aiu;
+
+[Update]
+Name = SavvyAppsInstaller
+ProductVersion = 3.0.3
+URL = https://download.cticloud.us/SavvyInstaller.exe
+ServerFileName = SavvyInstaller.exe
+Flags = Critical|NoCache
+Size = 91589456
+RegistryKey = HKUD\Software\Ring Savvy\SavvyAppsInstaller\Version
+Version = 3.0.3
+Description = Feature: cleanly remove installed apps
+Enhancement = Full app removal
