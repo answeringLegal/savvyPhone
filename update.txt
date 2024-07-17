@@ -9,5 +9,5 @@ ServerFileName = SavvyAppsInstaller.exe
 Flags = Critical|NoCache
 RegistryKey = HKUD\Software\Ring Savvy\SavvyAppsInstaller\Version
 Version = 3.0.7
-Description = Savvy App version: 1.0.6
-Feature = Dashboard Feature
+Description = Bug fixes and more
+Feature = New Icon, New UI
