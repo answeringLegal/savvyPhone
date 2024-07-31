@@ -21,8 +21,8 @@
     "speakers"
   ],
   "useDefaultAudioDevice": true,
-  "defaultInputAudioDevice": {"1": "Plantronics Blackwire 3220 Series", "2": "Logi USB Headset", "3": "Logitech USB Headset", "4": "Logitech USB Headse", "5": "Microsoft Sound Mapper - Input"},
-  "defaultOutputAudioDevice": {"1": "Plantronics Blackwire 3220 Series", "2": "Logi USB Headset", "3": "Logitech USB Headset", "4": "Logitech USB Headse", "5": "Microsoft Sound Mapper - Output"},
+  "defaultInputAudioDevice": {"1": "Plantronics Blackwire 3220 Series", "2": "Logi USB Headset", "3": "Logitech USB Headset", "4": "Logitech USB Headse"},
+  "defaultOutputAudioDevice": {"1": "Plantronics Blackwire 3220 Series", "2": "Logi USB Headset", "3": "Logitech USB Headset", "4": "Logitech USB Headse"},
   "securityCode": "D9C853F4897CF64307DB652246827FAC83111303F3E207F8FD9F5E5DC89A9EF9",
   "autoUnHold": true,
   "testAudioDevice": false,
