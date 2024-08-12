@@ -56,9 +56,9 @@
     }
   },
   "farmAssignment": {
-    "TBlake":"",
-    "DTaveras":"",
-    "JSteigerwald":"",
+    "TBlake":3,
+    "DTaveras":3,
+    "JSteigerwald":3,
     "LJoya":"",
     "ADolan":3,
     "DEvans":"",
