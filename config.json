@@ -47,8 +47,8 @@
   "autoAnswerDelay": 100000,
   "currentPackageVersion": {
     "windows": {
-      "version": "3.0.8",
-      "releaseNotes": "Savvy App 1.0.8; Savvy Phone 37.0.8"
+      "version": "3.0.9",
+      "releaseNotes": "Savvy App 1.0.9; Savvy Phone 37.0.4"
     },
     "mac": {
       "version": "1.0.8",
