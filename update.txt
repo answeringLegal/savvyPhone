@@ -2,11 +2,12 @@
 
 [Update]
 Name = SavvyAppsInstaller
-ProductVersion = 3.1.1
+ProductVersion = 3.1.2
 URL = http://download.cticloud.us/SavvyInstaller.exe
-Size = 92283176
+Size = 92283888
 ServerFileName = SavvyAppsInstaller.exe
 Flags = Critical|NoCache
 RegistryKey = HKUD\Software\Ring Savvy\SavvyAppsInstaller\Version
-Version = 3.1.1
-Description = Savvy App version: 1.0.11
+Version = 3.1.2
+Description = Savvy App version: 1.0.12
+
