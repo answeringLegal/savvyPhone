@@ -259,5 +259,6 @@
     "RSantos": 2,
     "JReddish": 1,
     "JWhitaker": 2
-  }
+  },
+  "dashboardPingTime": 1000
 }
