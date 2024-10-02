@@ -40,9 +40,8 @@
   "autoDeviceRefresh": true,
   "autoAnswer": false,
   "persistAccounts": true,
-  "enableSTUN": true,
+  "enableSTUN": false,
   "enableICE": false,
-  "stunServers": ["stun.l.google.com:19302"],
   "handleNOTIFY": true,
   "autoAnswerDelay": 100000,
   "currentPackageVersion": {
